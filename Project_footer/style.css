@@ -1,0 +1,164 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer {
+    /* height: 391px; */
+    width: 320px;
+    background-color: #4f181d;
+}
+
+.footer_logo {
+    height: 31px;
+    width: 66px;
+    margin-top: 44px;
+    margin-left: 127px;
+}
+
+.footer_place {
+    margin-left: 52px;
+    height: 16px;
+    width: 12px;
+    margin-top: 22px;
+}
+
+.mesto {
+    display: flex;
+
+}
+
+.adress {
+    color: #ffffff;
+    margin-top: 25px;
+    font-size: 14px;
+    margin-left: 7px;
+}
+
+.footer_telephone {
+    margin-top: 18px;
+    margin-left: 71px;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.footer_email {
+    margin-top: 11px;
+    margin-left: 71px;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.footer_orange_email {
+    color: #f3820a;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.rectangle1 {
+    width: 35px;
+    height: 30px;
+    border-radius: 10%;
+    border-color: #f3820a;
+    border: 1px solid #f3820a;
+    margin-left: 118px;
+    margin-top: 27px;
+}
+
+.facebook_logo_footer {
+    width: 13px;
+    height: 20px;
+    fill: white;
+    margin-top: 5px;
+    margin-left: 11px;
+}
+
+.rectangle2 {
+    width: 35px;
+    height: 30px;
+    border-radius: 10%;
+    border-color: #f3820a;
+    border: 1px solid #f3820a;
+    margin-left: 15px;
+    margin-top: 27px;
+}
+
+.instagram_logo_footer {
+    width: 16px;
+    height: 16px;
+    fill: white;
+    margin-top: 7px;
+    margin-left: 10px
+}
+
+
+.social_networks {
+    display: flex;
+}
+
+.button_orange_footer {
+    background-color: #f3820a;
+    color: black;
+    margin-top: 30px;
+    margin-left: 40px;
+    height: 56px;
+    width: 240px;
+    border-radius: 5%;
+    border: 1px solid #f3820a;
+    font-size: 16px;
+}
+
+.ho_line_footer {
+    margin-top: 54px;
+    background-color: #714f52;
+    height: 1px;
+    width: 320px;
+}
+
+.footest_footer {
+    height: 60px;
+    width: 320px;
+    background-color: #421418;
+    display: flex;
+}
+
+.c {
+    margin-left: 29px;
+    margin-top: 21px;
+    height: 16px;
+    width: 16px;
+}
+
+.year {
+    color: #714f52;
+    margin-top: 22px;
+    font-size: 11px;
+    margin-left: 5px;
+}
+
+.branch {
+    height: 20px;
+    width: 1px;
+    background-color: #714f52;
+    margin-top: 20px;
+    margin-left: 9px;
+}
+
+.development {
+    font-size: 11px;
+    color: #714f52;
+    margin-top: 17px;
+    margin-left: 10px;
+}
+
+.heart {
+    margin-left: 6px;
+}
+
+.by {
+    margin-left: 6px;
+}
+
+.link_GoITeens {
+    color: #714f52;
+}
+
